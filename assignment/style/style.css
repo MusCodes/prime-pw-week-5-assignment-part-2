@@ -1,0 +1,22 @@
+.first, .second{
+    color:  lightcoral;
+}
+
+
+
+header{
+    background-color: darkblue;
+    text-align: center;
+    
+}
+main{
+    padding: 1em;
+    background-color: lightgray;
+    text-align: center;
+}
+body { 
+    margin: 0;
+    background-image: url("../Pic/record.png");
+   background-color: blueviolet;
+   background-repeat: repeat;
+}
